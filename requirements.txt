@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+
+spacy
+langdetect
+transformers
+sentencepiece
+torch
+
+requests
